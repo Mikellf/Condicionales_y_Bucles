@@ -1,4 +1,4 @@
-# Ejercicios Obligatorios de Condicionales_y_Bucles
+# Ejercicios Obligatorios de Condicionales y Bucles
 
 
 Ejercicio Obligatorio
